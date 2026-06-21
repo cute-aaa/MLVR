@@ -1,0 +1,14 @@
+# Temporary files
+*.tmp
+*.log
+vs-temp-dl/
+vs-temp-dl2/
+
+# User's local installers (don't commit large binaries)
+*.exe
+*.zip
+*.7z
+*.rar
+
+# Keep the vpy script
+!vapoursynth/*.vpy
